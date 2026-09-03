@@ -1,0 +1,15 @@
+# backups and large intermediates
+*.bak
+*.dat.bak
+
+# notebook cruft
+.ipynb_checkpoints/
+__pycache__/
+*.nb.bak
+
+# editor / OS
+.vscode/
+.directory
+.DS_Store
+.~lock.*#
+
