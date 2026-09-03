@@ -1,9 +1,8 @@
 # Reference data
 
-These files come from Prof. Sajal Mukherjee's full 8-dimensional Hamiltonian integration
+These files come from full 8-dimensional Hamiltonian integration
 (proper-time evolution with Christoffel symbols, converted to Mino time via
-`dtau_m/dtau = 1/Sigma`) and are included here with permission. His notebook itself is not
-included.
+`dtau_m/dtau = 1/Sigma`).
 
 All files are whitespace-separated plain text, readable with
 `Import[..., "Table"]` or `numpy.loadtxt`.
