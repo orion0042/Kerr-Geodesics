@@ -14,3 +14,6 @@ __pycache__/
 .~lock.*#
 .data
 
+# figures: only ham_error.png is tracked for now
+figures/*
+!figures/ham_error.png
